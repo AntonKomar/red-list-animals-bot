@@ -1,0 +1,7 @@
+tensorflow==2.5.0
+tensorflow-estimator==2.5.0
+numpy==1.19.5
+pathlib==1.0.1
+requests==2.26.0
+requests-oauthlib==1.3.0
+urllib3==1.26.6
