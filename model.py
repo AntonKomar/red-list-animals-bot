@@ -25,7 +25,7 @@ NUM_CLASSES = len(class_names)
 VALIDATION_SPLIT = 0.2
 EPOCHS = 15
 
-MODEL_DIR = pathlib.Path('./model/1')
+MODEL_DIR = pathlib.Path('./model')
 DATA_DIR = pathlib.Path('./data')
 
 API_TOKEN = 'TOKEN'
